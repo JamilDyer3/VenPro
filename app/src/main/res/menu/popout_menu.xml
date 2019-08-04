@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/MyProfile"
+        android:title="@string/mainprofile_name"></item>
+    <item android:id="@+id/EventInfo"
+        android:title="@string/event_info_menu"></item>
+    <item android:id="@+id/Attendees"
+        android:title="@string/attendees_text"></item>
+</menu>

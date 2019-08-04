@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VenPro</string>
+    <string name="login_text">Login</string>
+    <string name="password_text">Password</string>
+    <string name="username_text">Username</string>
+    <string name="venpro_name">VenPro</string>
+    <string name="forgot_password_text">Forgot Password</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="mainprofile_name">My Profile</string>
+    <string name="event_info_menu">Event Info</string>
+    <string name="attendees_text">Attendees</string>
+    <string name="menu_button_text">Menu</string>
+    <string name="profile_name">User 1</string>
+    <string name="event_id">Event ID</string>
+    <string name="about_me_title">About Me</string>
+    <string name="attendees_title">Attendees</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="email_password">Email/Password</string>
+    <string name="signed_out_text">Signed Out</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_btntxt">Sign In</string>
+    <string name="create_account_btntxt">Create Account</string>
+    <string name="sign_out_text">Sign Out</string>
+    <string name="verify_email_text">Verify Email</string>
+    <string name="event_info_title">Event Info</string>
+    <string name="event_id_info">Event Id: Club123</string>
+    <string name="event_info_text">Club 123 is a recently opened venue. The staff goal is to focus primarily on making sure visitors enjoy themselves. With a wide variety of drinks and entertainment options we look forward to your continued patronage.</string>
+    <string name="about_me_text">Hello, My name is User 1. I am 24 years old. My hobbies include swimming, playing football and traveling.</string>
+    <string name="profile_image">profile image</string>
+</resources>

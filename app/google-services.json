@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761827581941",
+    "firebase_url": "https://venpro-login.firebaseio.com",
+    "project_id": "venpro-login",
+    "storage_bucket": "venpro-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761827581941:android:d2c71f3d3ebe0dfb",
+        "android_client_info": {
+          "package_name": "com.example.venpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761827581941-mb7e961v1vjmlsebf4c5cssnt8bp7n98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venpro",
+            "certificate_hash": "d9c0651204e1a0f70a19cb9944d2509108704e7b"
+          }
+        },
+        {
+          "client_id": "761827581941-98en4rl1n68et86l1vo7ah51vljfknr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSX5NuP84Pt1duqNpGmRTAuzwO6aG8v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761827581941-98en4rl1n68et86l1vo7ah51vljfknr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
